@@ -1,8 +1,3 @@
-# ip_locator
-A simple GUI application using Python and Tkinter to perform IP address to country lookup.
-
-
-
 # ip_locator - IP Address to Country Lookup 
 
 This Python application provides a graphical user interface (GUI) for looking up the country associated with IP addresses. It utilizes the ipinfo.io and restcountries.com APIs to fetch geolocation information.
