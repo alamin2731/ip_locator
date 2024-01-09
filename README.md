@@ -18,7 +18,7 @@ This Python application provides a graphical user interface (GUI) for looking up
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ip_locator.git
+   git clone https://github.com/alamin2731/ip_locator.git
 1. Install the required libraries:
 
    ```bash
